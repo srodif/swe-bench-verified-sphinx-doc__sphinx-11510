@@ -1,0 +1,1 @@
+# Empty config - tests will register their own source-read handlers
